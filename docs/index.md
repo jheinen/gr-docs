@@ -134,8 +134,8 @@ window.onload=swapImage;
 ``Plots`` is a powerful wrapper around other Julia visualization
 "backends", where ``GR`` seems to be one of the favorite ones.
 To get an impression how complex visualizations may become
-easier with [Plots](http://plots.readthedocs.io), take a look at
-[these](http://plots.readthedocs.io/en/latest/examples/gr)  examples.
+easier with [Plots](https://juliaplots.github.io), take a look at
+[these](https://juliaplots.github.io/examples/gr)  examples.
 
 ## Notebook examples
 

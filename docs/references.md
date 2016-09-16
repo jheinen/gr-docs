@@ -2,6 +2,8 @@
 
 **Workshops**
 
+* Heinen, J. (2016), "Scientific computing platforms at PGI / JCNS". Workshop, PGI/JCNS, Forschungszentrum Jülich ([PDF](https://pgi-jcns.fz-juelich.de/pub/doc/Scientific_computing_platforms_at_PGI_JCNS.pdf))
+
 * Heinen, J. (2014), "Scientific Visualization". Workshop, PGI/JCNS, Forschungszentrum Jülich ([PDF](http://iffwww.iff.kfa-juelich.de/pub/doc/sci-vis.pdf), [HTML](http://iffwww.iff.kfa-juelich.de/pub/doc/sci-vis/))
 
 **Poster Sessions**
@@ -11,6 +13,10 @@
 * Felder, C. (2015), ["Embedding Visualization Applications with PyGR"](https://ep2015.europython.eu/conference/talks/embedding-visualization-applications-with-pygr). [EuroPython 2015](https://ep2015.europython.eu/), Bilbao, ([Poster](https://ep2015.europython.eu/media/conference/slides/embedding-visualization-applications-with-pygr.pdf))
 
 **Talks**
+
+* Heinen, J. (2016), ["GR: Plotting with Python or Julia"](http://scipy2016.scipy.org/ehome/146062/332965/). [SciPy 2016](http://scipy2016.scipy.org/), Austin, Texas ([PDF](http://pgi-jcns.fz-juelich.de/pub/doc/SciPy_2016/GR-Plotting_with_Python_or_Julia.pdf), [Video](https://www.youtube.com/watch?v=BzM0Wa3eWcQ>), [HTML](http://pgi-jcns.fz-juelich.de/pub/doc/SciPy_2016/html/))
+
+* Heinen, J. (2016), ["State of the GR Framework"](http://juliacon.org/abstracts.html#GR). [JuliaCon 2016](http://juliacon.org), Cambridge, Massachusetts ([PDF](http://pgi-jcns.fz-juelich.de/pub/doc/JuliaCon_2016/talk.pdf), [Video](https://www.youtube.com/watch?v=HvhjogGF6aQ), [HTML](http://pgi-jcns.fz-juelich.de/pub/doc/JuliaCon_2016/html/))
 
 * Heinen, J. (2015), ["Getting more out of Matplotlib with GR"](https://www.euroscipy.org/2015/schedule/presentation/12/). [EuroSciPy 2015](https://www.euroscipy.org/2015/), Cambridge, UK ([PDF](https://pgi-jcns.fz-juelich.de/pub/doc/EuroSciPy_2015/EuroSciPy_2015-Getting_more_out_of_Matplotlib_with_GR.pdf), [Video](https://www.youtube.com/watch?v=CnL9DESPqF8), [HTML](https://pgi-jcns.fz-juelich.de/pub/doc/EuroSciPy_2015/00-talk/))
 
